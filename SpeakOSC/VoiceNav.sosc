@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commands</key>
+	<array>
+		<dict>
+			<key>commandPhrase</key>
+			<string>Select</string>
+			<key>targetPath</key>
+			<string>select</string>
+			<key>value</key>
+			<real>1</real>
+		</dict>
+		<dict>
+			<key>commandPhrase</key>
+			<string>Forward</string>
+			<key>targetPath</key>
+			<string>forward</string>
+			<key>value</key>
+			<real>1</real>
+		</dict>
+		<dict>
+			<key>commandPhrase</key>
+			<string>Back</string>
+			<key>targetPath</key>
+			<string>back</string>
+			<key>value</key>
+			<real>1</real>
+		</dict>
+		<dict>
+			<key>commandPhrase</key>
+			<string>Change</string>
+			<key>targetPath</key>
+			<string>change</string>
+			<key>value</key>
+			<real>1</real>
+		</dict>
+		<dict>
+			<key>commandPhrase</key>
+			<string>Start</string>
+			<key>targetPath</key>
+			<string>start</string>
+			<key>value</key>
+			<real>1</real>
+		</dict>
+		<dict>
+			<key>commandPhrase</key>
+			<string>Testing</string>
+			<key>targetPath</key>
+			<string>testing</string>
+			<key>value</key>
+			<real>1</real>
+		</dict>
+	</array>
+</dict>
+</plist>
